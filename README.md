@@ -45,15 +45,10 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## URL to open
 
-```bash
-# unit tests
-$ npm run test
+http://localhost:3000/movies
 
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
+Seach with keywords 
+Ex - harry, caption, etc.
 ```
